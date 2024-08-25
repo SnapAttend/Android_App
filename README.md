@@ -1,1 +1,1 @@
-# Attendance_App
+# SnapAttend
